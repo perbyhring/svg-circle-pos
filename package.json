@@ -8,6 +8,6 @@
     "jsdom": "^11.5.1"
   },
   "bin": {
-    "svg-circle-pos": "bin/svg-circle-pos.js"
+    "svg-circle-pos": "index.js"
   }
 }
