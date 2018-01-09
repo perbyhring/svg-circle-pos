@@ -6,7 +6,6 @@ const { JSDOM } = jsdom;
 
 const filepath = process.argv[2];
 const newfilename = process.argv[3] || `${filepath.replace('.svg', '')}.json`;
-const jsonStyle = process.argv[4] || false;
 
 const filecontents = fs.readFileSync(filepath).toString();
 
