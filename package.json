@@ -1,0 +1,13 @@
+{
+  "name": "svg-circle-pos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "jsdom": "^11.5.1"
+  },
+  "bin": {
+    "svg-circle-pos": "bin/svg-circle-pos.js"
+  },
+}
