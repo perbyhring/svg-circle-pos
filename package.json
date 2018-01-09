@@ -9,5 +9,5 @@
   },
   "bin": {
     "svg-circle-pos": "bin/svg-circle-pos.js"
-  },
+  }
 }
