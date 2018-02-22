@@ -19,7 +19,7 @@ Would be transformed into this:
 ## Install
 
 ```
-  npm install -g svg-circle-pos
+npm install -g https://github.com/perbyhring/svg-circle-pos.git
 ```
 
 ## Usage
